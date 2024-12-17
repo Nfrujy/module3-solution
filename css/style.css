@@ -1,0 +1,11 @@
+/* Navbar Dropdown Background */
+#navbar-menu {
+    background-color: #f8f8f8;
+}
+
+/* Tall Section Styling */
+.tall-section {
+    height: 1000px; /* Tall section for scrolling */
+    background-color: #e9ecef; /* Light gray to distinguish section */
+    padding: 20px;
+}
